@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+    background-color: rgb(39, 39, 39);
+	color: #fffefe;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(247, 5, 5);
+}
+h1{
+    color:rgb(252, 250, 250);
+	position:relative;
+	left:5%;
+}
+p{
+    font-family: 'Courier New', Courier, monospace
+
+}
+.container {
+	max-width: 1300px;
+	margin: 0 auto;
+	border: 1px solid hsl(0, 0%, 16%);
+}
+.flex {
+	display: flex;
+}
+.item {
+	margin: 5px;
+	text-align: center;
+	font-size: 1.5em;
+	width: 650px;
+}
+#carpaccio{
+	width: 20%;
+	position: relative;
+	left: 15%;
+}
+#sushi
+{
+ width:20% ;
+ position:relative;
+ left: 20%;
+ border: 100px;
+ border-color: black;
+}
+#kentaki
+{
+width: 25%;
+position:relative;
+left: 25%;
+}
+#cardapio
+{
+	position:relative
+}
+h2{
+	left: 50%;
+}
+b{
+	text-align:center; font-size: 40px;
+	position: relative;
+	left:80%;
+	font-family: matisse Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header{
+	background-color: red; color: white;
+	padding: 1Px;
+	background-image: url(JAPAPEY.jng);
+
+
+}
+{
+	position: relative;
+	top: 10%;
+}
+
